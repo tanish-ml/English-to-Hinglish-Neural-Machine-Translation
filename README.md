@@ -1,4 +1,4 @@
-# Eng-Hin-Language-Translator-using-Word-Embedding-and-RNN
+# English to Hinglish Neural Machine Translation
 
 
 ## Overview
